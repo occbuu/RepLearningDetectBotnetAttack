@@ -71,11 +71,12 @@ python main.py --mode predict --input data/my_traffic.csv
 
 ## Results
 
-Model Configuration	Accuracy	F1-Score (Weighted)	Recall (Botnet)
-ResNet-18 (32x32)	98.34%	98.38%	98.34%
-ResNet-18 (64x64)	98.07%	98.07%	98.07%
-ResNet-18 (128x128)	97.12%	97.12%	97.12%
-Random Forest	91.88%	90.99%	0.02% (Fail)
+| Model Configuration        | Accuracy | F1-Score (Weighted) | Recall (Botnet) |
+|----------------------------|----------|---------------------|-----------------|
+| ResNet-18 (32×32)          | 98.34%   | 98.38%              | 98.34%          |
+| ResNet-18 (64×64)          | 98.07%   | 98.07%              | 98.07%          |
+| ResNet-18 (128×128)        | 97.12%   | 97.12%              | 97.12%          |
+| Random Forest              | 91.88%   | 90.99%              | 0.02% (Fail)    |
 
 ## Repository Structure
 
