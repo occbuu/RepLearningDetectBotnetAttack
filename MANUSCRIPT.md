@@ -92,7 +92,4 @@ Final Checklist for the Editor
 - Run your code on a clean computer (or Google Colab) to make sure requirements.txt actually works.
 - Upload these changes to GitHub.
 - Check the link: Ensure https://github.com/occbuu/RepLearningDetectBotnetAttack is public and accessible.
-
-
-If you use this code or methodology, please cite our paper:
-Le Ngoc, H. (2026). Application of Representation Learning in Detecting Botnet Attacks. Scientific Reports (Under Review).
+ 
